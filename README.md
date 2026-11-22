@@ -3,6 +3,16 @@
 **Human scientific author:** Gabriel St-Pierre, independent researcher.
 **Material AI assistance:** OpenAI ChatGPT (Astra) materially assisted independent exact rational programs, verification, scientific manuscript, metadata and controlled publication. AI is not the scientific author.
 
+## Official Polybrutus D62 Zenodo DOI and scientific source integrity
+
+- **Official DOI:** [10.5281/zenodo.24432169](https://doi.org/10.5281/zenodo.24432169); public [Zenodo record](https://zenodo.org/records/24432169).
+- **Immutable original scientific GitHub tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d62/tree/v0.1.0), actual peeled scientific SHA \`8263a9583993b9d3d8122f4c68a930e5faf23161\`.
+- **Main scientific GitHub CI:** https://github.com/Topbrutus/polybrutus-d62/actions/runs/44976276720 - success.
+- **Frozen scientific tag CI:** https://github.com/Topbrutus/polybrutus-d62/actions/runs/44976331624 - success.
+- **Zenodo public original artifacts:** complete scientific Git tag source ZIP, two-page PDF and deterministic JSON certificate; all 3 file names, exact byte sizes and public MD5 match original SHA256-verified files.
+- **Zenodo metadata:** 9 current D62 sixty-two/fifty-sixfold keywords, structured isDerivedFrom direct parent D61 DOI 10.5281/zenodo.24432096; two separate textual references to D61 and historical D7 DOI 10.5281/zenodo.24407952.
+- **Durable checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D62_PUBLICATION_2026-11-21.md .
+
 ## Exact reproducible mathematical results
 
 - **67** unit-norm points, **2211 / 2211** labelled exact rational squared-distance pairs.
